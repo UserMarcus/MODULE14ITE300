@@ -1,0 +1,8 @@
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\bin\Debug\Mod14Inheritance.exe.config
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\bin\Debug\Mod14Inheritance.exe
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\bin\Debug\Mod14Inheritance.pdb
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\obj\Debug\Mod14Inheritance.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\obj\Debug\Mod14Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\obj\Debug\Mod14Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\obj\Debug\Mod14Inheritance.exe
+C:\Users\Marcus\source\repos\Mod14Inheritance\Mod14Inheritance\obj\Debug\Mod14Inheritance.pdb
